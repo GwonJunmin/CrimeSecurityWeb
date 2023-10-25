@@ -15,9 +15,9 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
-- Link
-Noction Link (https://rumbling-drizzle-f3c.notion.site/CrimeSecurityWeb-2023-09-2023-10-cea7c4b1dbd24ac48931ed4c186e3499?pvs=4)
-<br>
+##🔗Link
+Notion
+https://rumbling-drizzle-f3c.notion.site/CrimeSecurityWeb-2023-09-2023-10-cea7c4b1dbd24ac48931ed4c186e3499?pvs=4
 
 ## 📋 ERD
 ![image](https://github.com/kimm9803/CrimeSecurityWeb/assets/118273341/5207ae9d-f140-4db7-998e-09dba0ffb2ea)
